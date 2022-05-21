@@ -1,1 +1,1 @@
-export const baseUrl = "http://semester-project-2-assignment.herokuapp.com/";
+export const baseUrl = "https://semester-project-2-assignment.herokuapp.com/";
