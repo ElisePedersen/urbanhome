@@ -5,16 +5,8 @@
 }
 
 .banner__container h1 {
-  padding-bottom: 125px;
+  padding: 150px 20px;
   text-align: left;
   color: white !important;
-  filter: drop-shadow(1px 1px 4px black);
-}
-
-.banner__container h2 {
-  text-align: left;
-  color: $color-secondary;
-  padding-top: 125px;
-  font-size: 3rem;
   filter: drop-shadow(1px 1px 4px black);
 }
