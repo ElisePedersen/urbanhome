@@ -44,15 +44,6 @@ Due to changes in Heroku´s policies, it is now neccesary to run a local version
 
 Now, you can access the server at [http://localhost:1337](http://localhost:1337) or access the administration panel at [http://localhost:1337/admin](http://localhost:1337/admin).
 
-The login information for the admin page:
-
-Username: `admin@admin.com`
-
-Password: `Pass1234`
-
 ## Contact
 
 [My LinkedIn page](https://www.linkedin.com/in/elisepedersen1/)
-
-
-
