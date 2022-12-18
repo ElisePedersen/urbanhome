@@ -12,7 +12,6 @@ UrbanHome is an e-commerce website where the user can
 
 On the admin section, a logged in user can create, update and delete products.
 
-
 ## Frameworks and Libraries
 - Bootstrap
 - Sass
@@ -27,8 +26,6 @@ On the admin section, a logged in user can create, update and delete products.
 ## Installation and Setup
 To run the project locally, close this repository to your computer and open it with your code editor. You can launch the website in you browser through Live Server, which has a live reload feature. 
 
-Due to changes in Heroku´s policies, it is now neccesary to run a local version of Strapi in order for the project to work. An example Strapi repo can be found [here](https://github.com/NoroffFEU/strapi-sp2-v4).
-
 ### Admin
 To login to the admin pages you need to use this username and password:
 
@@ -36,8 +33,22 @@ Username: `admin@admin.com`
 
 Password: `Pass1234`
 
-## Contributing
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate CONTRIBUTING.md and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
+### To run the local version of Strapi
+
+Due to changes in Heroku´s policies, it is now neccesary to run a local version of Strapi in order for the project to work. An example Strapi repo can be found [here](https://github.com/NoroffFEU/strapi-sp2-v4).
+
+- Clone the repo [here](https://github.com/NoroffFEU/strapi-sp2-v4)
+- Open a terminal in the project
+- Run `npm install`
+- Run `npm run develop`
+
+Now, you can access the server at [http://localhost:1337](http://localhost:1337) or access the administration panel at [http://localhost:1337/admin](http://localhost:1337/admin).
+
+The login information for the admin page:
+
+Username: `admin@admin.com`
+
+Password: `Pass1234`
 
 ## Contact
 
