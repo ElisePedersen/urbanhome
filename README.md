@@ -33,7 +33,7 @@ Username: `admin@admin.com`
 
 Password: `Pass1234`
 
-### To run the local version of Strapi
+### Run the local version of Strapi
 
 Due to changes in Heroku´s policies, it is now neccesary to run a local version of Strapi in order for the project to work. An example Strapi repo can be found [here](https://github.com/NoroffFEU/strapi-sp2-v4).
 
