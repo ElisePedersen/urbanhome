@@ -24,7 +24,7 @@ On the admin section, a logged in user can create, update and delete products.
 - Netlify
 
 ## Installation and Setup
-To run the project locally, close this repository to your computer and open it with your code editor. You can launch the website in you browser through Live Server, which has a live reload feature. 
+To run the project locally, clone this repository to your computer and open it with your code editor. You can launch the website in you browser through Live Server, which has a live reload feature. 
 
 ### Admin
 To login to the admin pages you need to use this username and password:
