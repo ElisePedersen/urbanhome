@@ -108,8 +108,8 @@ h2 {
   padding: 150px 20px;
   text-align: left;
   color: white !important;
-  -webkit-filter: drop-shadow(1px 1px 4px #5a524b);
-          filter: drop-shadow(1px 1px 4px #5a524b);
+  -webkit-filter: drop-shadow(1px 1px 4px black);
+          filter: drop-shadow(1px 1px 4px black);
 }
 
 .product__card {
@@ -152,6 +152,14 @@ h2 {
   border-radius: 0.25rem;
 }
 
+.product__card img {
+  width: 100%;
+}
+
+.product__image {
+  width: 100%;
+}
+
 .specific-promotion {
   margin-top: 40px;
 }
@@ -180,6 +188,7 @@ h2 {
 .article {
   background-color: #ececeb;
   border: none;
+  margin-top: 40px;
 }
 
 .article__more {
@@ -187,11 +196,7 @@ h2 {
 }
 
 .specific__container img {
-  max-width: 400px;
-}
-
-.specific__image {
-  text-align: center;
+  max-width: 300px;
 }
 
 .cart__container img {

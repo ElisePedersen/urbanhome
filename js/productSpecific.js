@@ -15,7 +15,7 @@ const specificUrl = baseUrl + "products/" + id;
 async function displayProduct() {
   const response = await fetch(specificUrl);
   const products = await response.json();
-
+  console.log(products);
   try {
     getProduct(products.data);
   } catch (error) {
