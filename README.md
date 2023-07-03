@@ -24,7 +24,7 @@ On the admin section, a logged in user can create, update and delete products.
 - Netlify
 
 ## Installation and Setup
-To run the project locally, close this repository to your computer and open it with your code editor. You can launch the website in you browser through Live Server, which has a live reload feature. 
+To run the project locally, clone this repository to your computer and open it with your code editor. You can launch the website in you browser through Live Server, which has a live reload feature. 
 
 ### Admin
 To login to the admin pages you need to use this username and password:
@@ -33,7 +33,7 @@ Username: `admin@admin.com`
 
 Password: `Pass1234`
 
-### To run the local version of Strapi
+### Run the local version of Strapi
 
 Due to changes in Heroku´s policies, it is now neccesary to run a local version of Strapi in order for the project to work. An example Strapi repo can be found [here](https://github.com/NoroffFEU/strapi-sp2-v4).
 
